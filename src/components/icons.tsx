@@ -344,6 +344,17 @@ export const FreedrawIcon = createIcon(
   modifiedTablerIconProps,
 );
 
+// 中文手写 icons
+export const FreedrawCNIcon = createIcon(
+  <g strokeWidth="1.25">
+    <path
+      clipRule="evenodd"
+      d="M20,12C20,6.5,15.5,2,10,2S0,6.5,0,12c0,5,4,9,9,9h2.2l-1.1,2h6.9l-1.1-2H20C24,21,20,17,20,12z M10.5,18c-3.6,0-6.5-2.9-6.5-6.5S6.9,5,10.5,5S17,7.9,17,11.5S14.1,18,10.5,18z"
+    />
+  </g>,
+  modifiedTablerIconProps,
+);
+
 // tabler-icons: typography
 export const TextIcon = createIcon(
   <g strokeWidth="1.5">
