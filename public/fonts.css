@@ -14,7 +14,7 @@
 
 @font-face {
   font-family: "HanziPenSC";
-  src: url("https://cdn.jsdelivr.net/gh/urzz/excalidraw/public/HanziPenSC.woff2");
+  src: url("https://fastly.jsdelivr.net/gh/urzz/excalidraw/public/HanziPenSC.woff2");
   font-display: swap;
 }
 
